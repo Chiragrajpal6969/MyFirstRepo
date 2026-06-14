@@ -1,1 +1,2 @@
-my name is chirag
+my name is chirag is person B
+my name is tanishq is person A
